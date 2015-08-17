@@ -1,0 +1,44 @@
+RollOneDieIntent roll a {four|sides} sided die
+RollOneDieIntent roll a {six|sides} sided die
+RollOneDieIntent roll a {eight|sides} sided die
+RollOneDieIntent roll a {ten|sides} sided die
+RollOneDieIntent roll a {twelve|sides} sided die
+RollOneDieIntent roll a {twenty|sides} sided die
+RollOneDieIntent roll one {four|sides} sided dice
+RollOneDieIntent roll one {six|sides} sided dice
+RollOneDieIntent roll one {eight|sides} sided dice
+RollOneDieIntent roll one {ten|sides} sided dice
+RollOneDieIntent roll one {twelve|sides} sided dice
+RollOneDieIntent roll one {twenty|sides} sided dice
+
+RollMultipleDiceIntent roll {two|quantity} {four|sides} sided dice
+RollMultipleDiceIntent roll {three|quantity} {six|sides} sided dice
+RollMultipleDiceIntent roll {four|quantity} {eight|sides} sided dice
+RollMultipleDiceIntent roll {five|quantity} {ten|sides} sided dice
+RollMultipleDiceIntent roll {six|quantity} {twelve|sides} sided dice
+RollMultipleDiceIntent roll {seven|quantity} {twenty|sides} sided dice
+RollMultipleDiceIntent roll {eight|quantity} {twenty|sides} sided dice
+RollMultipleDiceIntent {two|quantity} D {four|sides}
+RollMultipleDiceIntent {three|quantity} D {six|sides}
+RollMultipleDiceIntent {four|quantity} D {eight|sides}
+RollMultipleDiceIntent {five|quantity} D {ten|sides}
+RollMultipleDiceIntent {six|quantity} D {twelve|sides}
+RollMultipleDiceIntent {seven|quantity} D {twenty|sides}
+RollMultipleDiceIntent {eight|quantity} D {twenty|sides}
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me

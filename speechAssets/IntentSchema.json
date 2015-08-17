@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "RollOneDieIntent",
+      "slots": [
+		  {
+			  "name": "Sides",
+	          "type": "NUMBER"
+		  }
+      ]
+    },
+	{
+		"intent": "RollMultipleDiceIntent",
+		"slots": [
+  		  {
+  			  "name": "Sides",
+	          "type": "NUMBER"
+  		  },
+		  {
+			  "name": "Quantity",
+	          "type": "NUMBER"
+		  }
+		]
+	},
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
